@@ -17,7 +17,7 @@ const int PIR_PIN = 2;
 const int LED_PIN = 13;
 
 // ========== Timing ==========
-const unsigned long LED_DURATION = 30000;    // 30 seconds
+const unsigned long LED_DURATION = 3000;    // 30 seconds
 const unsigned long ALERT_COOLDOWN = 60000; // 1 minute
 
 unsigned long ledStartTime = 0;
